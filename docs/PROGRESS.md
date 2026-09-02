@@ -8,6 +8,8 @@ Mark each item as you complete it. Fork this repo and keep your checklist update
 
 ## Overall Progress
 
+**Started learning?** Update your status below as you complete each phase.
+
 | Phase | Modules | Status |
 | :--- | :---: | :---: |
 | Phase 1 — Core Go | 01–03 | ⬜ Not started |
