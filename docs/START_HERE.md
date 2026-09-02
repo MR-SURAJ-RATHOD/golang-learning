@@ -7,7 +7,7 @@ Follow modules **01 → 15** in order. Each module takes 2–6 hours.
 ## Quick Start (2 minutes)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MR-SURAJ-RATHOD/golang-learning.git
 cd golang-learning
 cd 01_go_fundamentals
 go run main.go
