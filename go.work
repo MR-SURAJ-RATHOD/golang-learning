@@ -1,0 +1,19 @@
+go 1.25.5
+
+use (
+	./01_go_fundamentals
+	./02_modules_and_workspace
+	./02_modules_and_workspace/greet
+	./03_concurrency_and_context
+	./04_testing_and_debugging
+	./05_databases_sql_nosql
+	./06_rest_api_and_gin
+	./07_authentication_and_security
+	./08_advanced_go_patterns
+	./09_backend_architecture
+	./10_microservices
+	./11_cloud_native_go
+	./12_iot_backend_projects
+	./13_docker_and_kubernetes
+	./14_ci_cd_pipeline
+)
